@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BenH5UCWeb.iml" filepath="$PROJECT_DIR$/BenH5UCWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UCAdmin/UCAdmin.iml" filepath="$PROJECT_DIR$/UCAdmin/UCAdmin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UCCommon/UCCommon.iml" filepath="$PROJECT_DIR$/UCCommon/UCCommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UCCore/UCCore.iml" filepath="$PROJECT_DIR$/UCCore/UCCore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UCFront/UCFront.iml" filepath="$PROJECT_DIR$/UCFront/UCFront.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UCService/UCService.iml" filepath="$PROJECT_DIR$/UCService/UCService.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="UCAdmin" />
+        <module name="UCCommon" />
+        <module name="UCCore" />
+        <module name="UCFront" />
+        <module name="UCService" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="BenH5UCWeb" target="1.5" />
+      <module name="UCAdmin" target="1.8" />
+      <module name="UCCommon" target="1.8" />
+      <module name="UCCore" target="1.8" />
+      <module name="UCFront" target="1.8" />
+      <module name="UCService" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

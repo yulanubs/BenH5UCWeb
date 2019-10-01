@@ -1,0 +1,12 @@
+1、用户密码注册
+http://localhost:1024/user/register/regByPwd?userName=admin&userPwd=123456
+2、微信注册
+http://localhost:1024/user/register/regByWX?wxOpenId=451243545&userByName=4545&userIconUrl=546545&appId=10024
+3、邮箱注册
+http://localhost:1024/user/register/regByEmail?userEmail=451243545&userByName=4545&userIconUrl=546545&appId=10024&userPwd=555
+4、新建用户类型
+http://localhost:1024/user/type/save?typeCode=-1&tyepName=%E6%9C%AA%E6%BF%80%E6%B4%BB&userId=10002&appId=10001
+5、修改用户分类
+http://localhost:1024/user/type/updateById?typeCode=-1&tyepName=%E5%BE%85%E5%AE%A1%E6%A0%B8&userId=10002&appId=10001&typeId=1
+6、录入一个app
+http://localhost:1024/app/addApp?userId=100000&appkey=wx60c901bbcc85561b&appSecret=24d73cd7f22e88264f138de5d668dec0&appType=1003&appName=DTCCode&appUrl=44
